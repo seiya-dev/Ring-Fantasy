@@ -1,0 +1,18 @@
+Welcome to Ring Fantasy!
+
+[Goal]: By answering a strange phone call on your new cell phone, you are suddenly dragged into a mysterious world. You need to find out what happened to you and discover a way home. Good luck!
+
+[Game]: To find a way home and defeat your opponents, you'll need to do the following:
+1. Talk to any people in the town and palace.
+2. Find the hidden treasures.
+3. Equip yourself with the best sword and armor. Learn the best spells.
+4. Defeat the monsters to build up your experience level.
+ 
+[Keys]: To control the character:
+Press <↑> or <w> to move the character one block North.
+Press <←> or <a> to move the character one block West.
+Press <→> or <d> to move the character one block East.
+Press <↓> or <s> to move the character one block South.
+Press <c> on the map to view character stats.
+Press <i> on the map to open inventory menu.
+Press <p> on the map to pause game.

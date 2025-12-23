@@ -1,0 +1,169 @@
+# Total events: 139
+
+# Start Position
+000@start_pos@MapS1,07,22,0
+
+# Warp to Map
+001@change_map@MapT1,18,34,0
+002@change_map@MapS1,07,01,3
+003@change_map@MapP1,23,22,1
+004@change_map@MapT1,01,16,2
+005@change_map@MapW1,01,12,2
+006@change_map@MapT1,34,16,1
+007@change_map@MapN1,06,24,0
+008@change_map@MapT1,18,01,3
+009@change_map@MapT2,17,17,3
+010@change_map@MapT1,32,31,3
+011@change_map@MapT1,14,06,1
+012@change_map@MapT2,01,01,3
+013@change_map@MapT3,10,09,3
+014@change_map@MapT1,07,06,2
+015@change_map@MapT1,02,01,2
+016@change_map@MapT3,02,01,1
+017@change_map@MapW2,06,24,0
+018@change_map@MapW1,18,01,3
+019@change_map@MapN2,06,24,0
+020@change_map@MapN1,06,01,3
+021@change_map@MapD1,10,11,1
+022@change_map@MapN2,10,01,1
+023@change_map@MapD2,10,01,1
+024@change_map@MapD1,02,01,2
+025@change_map@MapD3,13,11,3
+026@change_map@MapD2,05,06,3
+027@change_map@MapD4,06,11,0
+101@change_map@MapN1,02,24,0
+102@change_map@MapT1,14,01,3
+
+# Signs
+028@sign@South Valley: Nothing valuable here
+029@sign@Midpot: The great city
+030@sign@Keep Out: Private garden
+031@sign@West Desert: Sun Temple goes west.
+032@sign@North Hills: Dangers ahead!
+033@sign@Beware of monsters!
+107@sign@The water is too deep to cross.
+
+# PC Messages
+089@sign@LOG 1: \n8/7/2037 10:30 \nHigh Frequency Space Portal test starts. System OK.
+090@sign@LOG 2: \n8/7/2037 10:42 \nMax. speed of proton accelerator. Object transfer starts. System OK.
+091@sign@LOG 3: \n8/7/2037 10:43 \nRadiation of accelerator seems too high. Cooling process starting.
+092@sign@LOG 4: \n8/7/2037 10:44 \nCooling process fails. Radiation too high. Shutdown Systems. All personnel evacuate now...
+093@sign@LOG 5: \n8/7/2037 10:45 \nSystem has been shutdown, press Ctrl-Alt-Del keys to restart the system...
+094@sign@LOG 6: \n6/2/5417 08:13 \nSystem restarting... New system administrator: Lionel
+
+# Talks
+075@dialogue_box@Be Quiet!
+076@dialogue_box@Shiva Ring will increase the power of ice spells.
+077@dialogue_box@Ifrit Ring will increase the power of fire spells.
+078@dialogue_box@Titan Ring will increase the defense power.
+079@dialogue_box@Odin Ring will increase the attack power.
+081@dialogue_box@Please help me restore peace to this land.
+082@dialogue_box@Ever since King Lionel vanished, Midpot is the only safe village in the kingdom.
+083@dialogue_box@Princess Sarah was kidnapped last month. Someone saw her fight with King Lionel. This rumor is too insane...
+084@dialogue_box@The Royal Family owns five powerful rings, and Princess Sarah wears the most powerful one - The Phoenix Ring!
+085@dialogue_box@This world isn't truly real. Sometimes a tree isn't a tree.
+086@dialogue_box@According to the legend, there are ancient ruins among the northern mountains.
+087@dialogue_box@The queen is recruiting some brave people to fight the monsters. Well, I am just too drunk to do that!
+088@dialogue_box@This is the entry to the town sewers. There are some treasures, but lots of monsters inside.
+
+# One Time Dialogue Box
+103@one_time_dialogue_box@Where am I? The last thing I can remember is that phone rings...
+104@one_time_dialogue_box@I can not be stuck here. I must find my way home...
+106@one_time_dialogue_box@These are... computers! Some of them seem to still be working...
+
+# Text String
+128@dialogue_box@Found {gold} gold.
+129@dialogue_box@Bag is full, no room for {name}.
+130@dialogue_box@Found {name}. {description}
+131@dialogue_box@Fight with {name} (HP: {hp})?
+132@dialogue_box@{name} is defeated. Exp: +{exp}, Gold: +{gold}.
+133@dialogue_box@{name} is defeated. Exp: +{exp}, Gold: +{gold}, STR+4.
+108@dialogue_box@Get some rest for 100 gold?
+109@dialogue_box@Shopping today?
+110@dialogue_box@Door locked. No key to open it.
+111@dialogue_box@Door locked. Open it?
+112@dialogue_box@The queen seems very sad. Will you talk to her?
+113@dialogue_box@The princess is locked with the chains. Release her?
+114@dialogue_box@Have some drink and gossip?
+115@dialogue_box@Do you like to accept this quest?
+116@dialogue_box@No room for new items.
+136@dialogue_box@Sorry, you don't have enough gold.
+
+# Text Strings / Gossips
+120@dialogue_box@Bartender: \nYou need to EQUIP swords, armors and rings before use them.
+121@dialogue_box@Bartender: \nUse the treasure KEY carefully, because it just can be used once.
+122@dialogue_box@Bartender: \nSome monsters are very weak to FIRE or ICE spells, so cast the spells wisely.
+123@dialogue_box@Bartender: \nCheck your STATUS from time to time, and make sure you are in the good condition.
+124@dialogue_box@Bartender: \nUse the RAINBOW OIL(s) will temporarily increase your attack power.
+125@dialogue_box@Bartender: \nCast the SUMMON spell(s) will temporarily increase your spell power.
+126@dialogue_box@Bartender: \nThere lots of HIDDEN treasures on this land, so find them carefully.
+127@dialogue_box@Bartender: \nTalk to the QUEEN. You may be the person she needs.
+
+# Text Boxes
+134@text_box@Queen@./data/queen.txt
+135@text_box@Princess@./data/princess.txt
+137@text_box@King Lionel@./data/king1.txt
+138@text_box@King Lionel@./data/king2.txt
+
+# Special Events
+080@queen
+095@princess
+074@boss@15
+139@end_screen
+
+# Gold
+034@gold@100
+035@gold@200
+036@gold@300
+037@gold@3000
+
+# Items
+055@item@001
+056@item@002
+038@item@006
+039@item@007
+040@item@008
+041@item@009
+042@item@010
+053@item@101
+047@item@107
+048@item@108
+049@item@109
+054@item@201
+050@item@207
+051@item@208
+052@item@209
+043@item@301
+044@item@302
+045@item@303
+046@item@304
+096@item@305
+
+# Dungeon
+059@door
+
+# walkable
+097@walkable
+100@walkable_button@-1,0@14:00:000
+105@walkable_dialogue_box@Shallow water... It seems safe to pass.
+
+# Town
+058@shop
+057@inn@-5,1
+098@tavern
+
+# Monsters
+060@battle@1
+061@battle@2
+062@battle@3
+063@battle@4
+064@battle@5
+065@battle@6
+066@battle@7
+067@battle@8
+068@battle@9
+069@battle@10
+070@battle@11
+071@battle@12
+072@battle@13
+073@battle@14
